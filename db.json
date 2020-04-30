@@ -1,14 +1,5 @@
 ﻿{
-    "status": "ok",
-    "feed": {
-        "url": "https://anchor.fm/s/13e61654/podcast/rss",
-        "title": "quero ser dev",
-        "link": "simaraconceicao.com",
-        "author": "Simara Conceição",
-        "description": "Estudando direitinho, todo mundo programa. Esse Podcast foi criado para contar a dor e a delícia de se tornar uma pessoa desenvolvedora web.",
-        "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/3238461/3238461-1585838505468-b6df6d217248a.jpg"
-    },
-    "items": [
+    "posts": [
         {
             "title": "Transição de carreira é pra mim?",
             "pubDate": "2020-04-23 02:44:15",
